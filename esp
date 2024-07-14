@@ -36,7 +36,7 @@ local Skeleton = {
 	Lines = {};
 	Color = Color3.fromRGB(0,255,0);
 	Alpha = 1;
-	Thickness = 3;
+	Thickness = 5;
 	DoSubsteps = true;
 }
 Skeleton.__index = Skeleton;
